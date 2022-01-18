@@ -1,0 +1,6 @@
+## YAML Template.
+---
+hero-style:
+    css:
+        theme:
+            css/animate.css: {}
